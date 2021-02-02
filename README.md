@@ -11,3 +11,4 @@
 ![create user](http://g.recordit.co/gMVQ5COCtG.gif)
 #### Cart
 ![index](http://g.recordit.co/YqznDMGdhY.gif)
+// I have no idea what changes to make without breaking things 
